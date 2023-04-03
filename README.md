@@ -77,17 +77,25 @@ endmodule
 ##  RTL realization
 1. For HALF SUBTRACTOR:
 
+![image](https://user-images.githubusercontent.com/118343610/229428316-b66a419f-84e9-477f-8de5-62245b2e1f44.png)
 
 
 2.For FULL SUBTRACTOR:
 
+![image](https://user-images.githubusercontent.com/118343610/229428406-6c0e32e5-5b9d-49cf-b43a-130a715a34c2.png)
 
 
 
 ## Timing diagram 
-1. For HALF SUBTRACTOR:
+1. For HALF SUBTRACTOR:  
+
+![image](https://user-images.githubusercontent.com/118343610/229428487-25ba8c2d-057f-49c9-ab18-cec114065db5.png)
+
 
 2.For FULL SUBTRACTOR:
+
+![image](https://user-images.githubusercontent.com/118343610/229428562-2b5deaeb-3604-4983-be46-a95f185ec8f5.png)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
